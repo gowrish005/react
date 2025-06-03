@@ -1,0 +1,12 @@
+header,footer{
+  text-align: center;
+  height: 10vh;
+  padding: 3vh;
+  background-color: black;
+  color: white;
+  position: absolute;
+  width: 100vw;
+}
+footer{
+  bottom: 0;
+}

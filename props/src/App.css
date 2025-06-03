@@ -1,0 +1,16 @@
+div{
+  text-align: center;
+  
+}
+header,footer{
+    padding-top: 3vh;
+
+  background-color: #000;
+  color: white;
+  height: 10vh;
+}
+footer{
+  position: absolute;
+  bottom: 0;
+  width: 100vw;
+}
