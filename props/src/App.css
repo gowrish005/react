@@ -1,10 +1,8 @@
 div{
   text-align: center;
-  
 }
 header,footer{
-    padding-top: 3vh;
-
+  padding-top: 3vh;
   background-color: #000;
   color: white;
   height: 10vh;
